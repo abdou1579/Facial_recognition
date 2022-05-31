@@ -9,6 +9,8 @@ this project intends to create a model that can classify faces based on their Ch
 4. Matplotlib
 5. Numpy
 6. Seaborn
+## Data set used
+Yalefaces DATAset that can be found online
 # Performance achieved
 | Algorithms | Accuracy (%) |F1 score (%) |
 | :----: | :---: | :-------: |
